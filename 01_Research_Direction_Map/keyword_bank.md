@@ -278,3 +278,68 @@
 - 以人为中心的人工智能
 - 智慧社区
 - 社区数字服务
+
+## 11. KTH / Sanna Kuoppamäki Alignment Keywords
+
+This cluster is useful when preparing outreach to Sanna Kuoppamäki or similar supervisors working on ageing, HCI, digital health, and AI-enabled care technologies.
+
+### Strong English Keywords
+
+- ageing and technology
+- older adults and AI
+- inclusive HCI
+- digital health
+- welfare technology
+- conversational AI
+- LLM-based assistants
+- social robots in elderly care
+- AI-enabled care technologies
+- AI-driven platform care
+- long-term care services
+- care workers and AI
+- stakeholder participation in AI-enabled care
+- socio-gerontechnology
+- responsible AI in care
+- ethical integration of AI
+- social consequences of AI
+- healthy ageing
+- active ageing
+- ageing-in-place technologies
+- voice-based interaction
+- wearable technology for older adults
+- health-data sensemaking
+- community-based care support
+- older adults’ emotional wellbeing
+- social connection in later life
+
+### Recommended Search Combinations
+
+- older adults + conversational AI + participatory design
+- responsible AI + long-term care + care workers
+- welfare technology + older adults + inclusive design
+- social robots + elderly care + ethical integration
+- LLM assistants + older adults + wellbeing
+- wearable technology + active ageing + co-design
+- AI-enabled care services + stakeholder participation
+- socio-gerontechnology + human-computer interaction
+
+### Chinese Notes
+
+- 老年人与人工智能
+- 适老化人机交互
+- 包容性 HCI
+- 数字健康与老龄化
+- 福利技术 / 照护技术
+- 对话式人工智能
+- 社交机器人与老年照护
+- 长期照护中的 AI 平台
+- 照护工作者与 AI
+- 老年照护中的利益相关者参与
+- 老龄社会中的负责任 AI
+- AI 技术的伦理整合与社会接受度
+- 老年人的情感福祉与社会连接
+- 原居安老中的语音助手 / AI 伴侣
+
+### Positioning Sentence
+
+> Participatory and inclusive design of AI-enabled care and community support technologies for older adults’ wellbeing.
