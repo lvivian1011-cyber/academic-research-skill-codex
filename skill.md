@@ -41,7 +41,9 @@ Do not only summarise the paper. Explain how the paper can or cannot support the
 
 ## When Analysing Supervisors
 
-Use `templates/supervisor_profile_template.md`.
+Use `templates/supervisor_profile_template.md` as the canonical schema and collection workflow. The invocation `supervisor_profile_template` means: verify the supplied supervisor(s), output all 14 database fields (including profile URL), and assess fit and next actions. For regional expansion, preserve existing names and contact/exclusion status, deduplicate, add candidates, and distinguish verified facts from inferred theory/method preferences. Record public sources and the check date. Do not infer available PhD positions from funded projects.
+
+The current Sweden/Norway/Denmark/Netherlands example is `03_Supervisor_Matching/regional_longlist_sweden_norway_denmark_netherlands.md`. Dates in that file are a research snapshot, not permanent application rules. Updating a repository and sending outreach are separate actions; follow the user's authorization for each.
 
 Evaluate:
 
@@ -51,7 +53,7 @@ Evaluate:
 4. Natural connection with the user's background.
 5. Best email angle.
 6. Risks or weak matches.
-7. Fit score: High / Medium / Low.
+7. Overall research fit on a 1–5 scale, with reasons; action priority A / A- / B+ / B / C, separately from confirmed PhD availability.
 
 Avoid forcing a match. If the evidence is weak, say so clearly.
 
