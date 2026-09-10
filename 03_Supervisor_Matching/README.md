@@ -73,3 +73,9 @@ After sending 7 emails with 0 replies, switch from a narrow cold-email strategy 
 3. Read 2–3 papers or current project pages before emailing.
 4. Track PhD vacancy pages and open calls.
 5. Send tailored emails in small waves rather than mass emails.
+
+## Verified profiles and reusable template
+
+- [Supervisor profile template](../templates/supervisor_profile_template.md): canonical 14-field schema, source checks, fit scoring and application workflow. After loading this repository's skill, invoke `supervisor_profile_template: [name or region]`.
+- [Verified four-country profiles — 25 candidates/contacts](regional_longlist_sweden_norway_denmark_netherlands.md): checked 2026-09-10; includes sources, existing-name corrections, current project evidence and application eligibility/deadline notes. This is not a list of 25 open PhD positions.
+- [Earlier broad discovery list](regional_longlists/sweden_norway_denmark_netherlands_v1.md): retained for additional discovery leads. For overlapping people, use the verified profiles above for current affiliation, contact information and application notes; additional names in the earlier list still require individual verification before outreach.
