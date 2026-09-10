@@ -55,7 +55,9 @@ Decision after first pass:
 
 # 3. Second Pass｜Structured Reading
 
-Use `paper_note_template.md` to produce a full structured note.
+Use [the canonical paper reading template](../templates/paper_reading_template.md) to produce one integrated note. `paper_note_template.md` remains a deep-reading companion, not a second output to duplicate.
+
+Updated 2026-09-10: start with a copyable Reading Record; separate author claims and my inferences using claim IDs. Add proposal material by fixed module with a dated current English draft, and supervisor communication material including match, translation needed, email advice, a suggested opening paragraph and cautions. Include core keywords and 1–2 provisional research titles only when supported.
 
 Focus on:
 
@@ -72,11 +74,11 @@ Focus on:
 
 # 4. Third Pass｜PhD Conversion
 
-After summarizing the paper, convert it into application material.
+After analysing the paper, convert it into application material using sections 4–8 of the canonical template. Link each draft to its source claim ID; distinguish author meaning, my inference and proposed research. Do not repeat the same paragraph in several outputs.
 
 ## 4.1 Proposal conversion
 
-Write 1–3 sentences for each section if relevant.
+Write 1–3 sentences for each section if relevant. Record the fixed module, current copyable English version, source, limits, status and date. Unsupported drafts must be marked as pending verification.
 
 - Background:
 - Literature review:
@@ -86,6 +88,8 @@ Write 1–3 sentences for each section if relevant.
 - Expected contribution:
 
 ## 4.2 Supervisor-email conversion
+
+Record the evidence-based match between the supervisor's work and my confirmed research background, the direction needing adaptation, and paper-specific cautions. Provide a brief suggested first paragraph (identity and purpose) separately from the literature hook; do not assume supervision availability or generate a full email unless requested.
 
 Write a possible email hook:
 
@@ -123,7 +127,7 @@ Classification:
 
 # 6. Update the Knowledge Base
 
-After finishing a paper note, update the following files:
+After finishing a paper note, identify relevant updates below and write them when authorised by the user. Do not automatically create files or send communications. Reuse claim/material IDs to avoid duplicate records:
 
 - [ ] `paper_reading_index.md`
 - [ ] `literature_clusters.md`
