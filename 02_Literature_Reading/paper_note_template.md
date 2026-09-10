@@ -1,6 +1,12 @@
-# Paper Reading Note Template｜For PhD Application 2026
+# Paper Reading Note Template｜For PhD Application
 
 Use this template for every paper. The goal is to produce a structured note that can directly support the PhD application project.
+
+## Unified output contract (updated 2026-09-10)
+
+Use [the canonical paper reading template](../templates/paper_reading_template.md) for the current workflow and copyable record fields. The detailed sections below remain available for deep reading; do not produce two duplicate notes. Fill their content into the canonical structure, retaining relevant context, research questions, implications, critical reflection and next reading.
+
+Always include the concise reading record, evidence-versus-inference table, proposal module/current-draft bank, supervisor match and email guidance (including a suggested opening paragraph), provisional research titles, keywords and paper-specific cautions. Use claim IDs to connect analysis to reusable writing instead of repeating it. Mark unsupported or inapplicable fields explicitly. Application year and personal background follow the user's latest confirmed context.
 
 ---
 
