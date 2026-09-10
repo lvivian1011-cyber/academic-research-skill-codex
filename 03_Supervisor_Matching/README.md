@@ -14,6 +14,8 @@ Use this folder to decide which supervisors are worth deeper reading, which rese
 ├── supervisor_shortlist.md
 ├── decision_matrix.md
 ├── outreach_strategy.md
+├── regional_longlists/
+│   └── sweden_norway_denmark_netherlands_v1.md
 └── supervisors/
     └── supervisor_name_institution/
         ├── README.md
@@ -22,6 +24,34 @@ Use this folder to decide which supervisors are worth deeper reading, which rese
         ├── outreach_strategy.md
         └── papers_to_read.md
 ```
+
+## Two-Level Supervisor Database Logic
+
+Use two levels:
+
+1. **Regional longlist**: broad country/region-based discovery. Use this before deep reading.
+2. **Individual supervisor folder**: create only for A / A- / strong B+ supervisors after the first screening.
+
+This avoids over-investing time in weak candidates while still expanding the application pool.
+
+## Standard Collection Fields
+
+Every new supervisor should be collected using the 14-field structure in `templates/supervisor_profile_template.md`:
+
+1. School / University
+2. Department / Centre
+3. Supervisor Name
+4. Position
+5. Personal Profile URL
+6. Email
+7. Core Themes, 3–5
+8. Theoretical Preference
+9. Methodological Preference
+10. Current PhD / Project Clues
+11. Suggested Direction for Vivi
+12. Overall Fit, 1–5
+13. Priority
+14. Application Round / Deadline
 
 ## Matching Criteria
 
@@ -34,4 +64,12 @@ Use this folder to decide which supervisors are worth deeper reading, which rese
 
 ## Current Strategy
 
-For each supervisor, store a separate subfolder under `supervisors/`. This keeps profile notes, fit analysis, keywords, paper-reading priorities, and email strategy together.
+For each high-priority supervisor, store a separate subfolder under `supervisors/`. This keeps profile notes, fit analysis, keywords, paper-reading priorities, and email strategy together.
+
+After sending 7 emails with 0 replies, switch from a narrow cold-email strategy to a broader but tiered pipeline:
+
+1. Build regional longlists by country.
+2. Identify A / A- supervisors.
+3. Read 2–3 papers or current project pages before emailing.
+4. Track PhD vacancy pages and open calls.
+5. Send tailored emails in small waves rather than mass emails.
