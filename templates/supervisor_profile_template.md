@@ -1,365 +1,99 @@
-# Supervisor Profile Template
+# Supervisor Profile Template｜导师信息采集与匹配
 
-Use this template whenever collecting, comparing, or preparing outreach for a potential PhD supervisor.
+Canonical template: `templates/supervisor_profile_template.md`  
+Updated: 2026-09-10
 
-This template is designed for Vivi's PhD direction around design, ageing, intergenerational/community services, participatory design, co-design, design anthropology, responsible AI, inclusive digital services, welfare technology, and community-based wellbeing.
+用于 Vivi 的 design、ageing、community、participatory/co-design、design anthropology、HCI、responsible AI、digital inclusion、welfare technology 与 care 博士申请。适用于单人分析、多人比较及分区域扩展导师库。
 
----
+## 调用方式与输出
 
-## 0. Source and Verification
+口令示例：`supervisor_profile_template：分析 [姓名/主页]，更新 [国家] 导师库。`
 
-- Date checked:
-- Sources used:
-  - Official university profile:
-  - Research group / centre page:
-  - Project page:
-  - Publications / ORCID / Google Scholar:
-  - PhD vacancy / admission page:
-- Information confidence:
-  - High / Medium / Low
-- Notes on uncertainty:
+读取仓库 `skill.md` 和相关 context 后使用本模板。先输出完整14项；需要深入分析时，再补充下方证据与匹配说明。批量收集使用同一字段顺序，一人一条记录；国家、来源、核查日期与联系状态是额外元数据，不占用或替代14项。不要另建内容重复的模板。
 
----
+## 采集流程
 
-## 1. Supervisor Longlist Fields
+1. **确认身份**：以现任机构官网为先，核实国家、院系、任职、同名人物和职务变更。旧新闻、旧个人简介和 ORCID 不能单独证明当前任职。用户原名单按姓名与机构去重，保留原有排除/已联系状态；更正错链并说明原因。
+2. **查研究证据**：读个人主页、研究组、近年项目及相关论文；区分导师本人、合作者和仅同组的项目。优先最近3–5年，但不要把网页抓取日期当成研究日期。
+3. **查指导与机会**：分别记录博士指导经历、当前学生、在研资助项目、已公开岗位和未来机会。教授职称、项目经费或共同署名不等于有名额，也不单独证明主导师资格。应用科学大学或跨校任职需确认授予博士学位的机构和指导安排。
+4. **给出判断**：按用户背景解释主题、方法、理论、设计实践与社区/照护场景的匹配及缺口。理论或方法只能推断时明确标注“推断”，找不到写“未核实”，不从关键词强行归类。
+5. **查申请规则**：按具体学院和岗位核实 funded vacancy、open call、外部资助等路径；记录截止日、当地时区、入学时间、学位/语言/专业门槛和正式申请网址。招生轮次、奖学金截止与项目结束日期分别记录。未确认的未来轮次标“预计/待公告”，不得套用硕士截止日期。
+6. **入库并排序**：保留14项、评分理由、来源和缺失项。已结束项目仍可作阅读线索，必须标明结束。优先级同时考虑研究契合、信息可信度、申请资格与机会时点，不能把评分解释为录取概率。
+7. **交付**：给出分区域清单、第一批阅读/联系对象、同组关系和下一步。仅在用户授权的范围内更新仓库或外部应用；收集资料不包含自动发信。
 
-Use this 14-field format for supervisor database collection.
+## 1. 核心14项（唯一基础信息区）
 
-| Field | Content |
+| 字段 | 内容 / 填写要求 |
 |---|---|
-| 1. School / University |  |
-| 2. Department / Centre |  |
-| 3. Supervisor Name |  |
-| 4. Position |  |
-| 5. Personal Profile URL |  |
-| 6. Email |  |
-| 7. Core Themes, 3–5 |  |
-| 8. Theoretical Preference |  |
-| 9. Methodological Preference |  |
-| 10. Current PhD / Project Clues |  |
-| 11. Suggested Direction for Vivi |  |
-| 12. Overall Fit, 1–5 |  |
-| 13. Priority | A / A- / B+ / B / C |
-| 14. Application Round / Deadline | Vacancy-based / open call / scholarship cycle / specific deadline |
-
----
-
-## 2. Basic Information
-
-- Name:
-- Institution:
-- Country / Region:
-- Department / Faculty / School:
-- Research group / centre / lab:
-- Position:
-- Email:
-- Personal profile URL:
-- ORCID / Google Scholar / Research portal:
-- Can supervise PhD? Evidence:
-  - Explicit PhD supervision listed:
-  - Professor / associate professor status:
-  - Current doctoral students:
-  - Current funded projects:
-  - PhD vacancy/open call relevance:
-
----
-
-## 3. Research Keywords
-
-List 5–10 keywords from the supervisor's publications, profile, projects, and research group.
-
-- Keyword 1:
-- Keyword 2:
-- Keyword 3:
-- Keyword 4:
-- Keyword 5:
-- Keyword 6:
-- Keyword 7:
-- Keyword 8:
-- Keyword 9:
-- Keyword 10:
-
----
-
-## 4. Core Research Themes
-
-Summarise their work in 3–5 themes.
-
-1. Theme 1:
-2. Theme 2:
-3. Theme 3:
-4. Theme 4:
-5. Theme 5:
-
----
-
-## 5. Theoretical Orientation
-
-Identify the supervisor's likely theoretical preferences. Use evidence from publications and project descriptions.
-
-Possible categories:
-
-- design anthropology
-- participatory design theory
-- co-design theory
-- service design / service ecosystems
-- social innovation
-- sociotechnical systems
-- Science and Technology Studies, STS
-- socio-gerontechnology
-- age studies / social gerontology
-- feminist / care ethics / ethics of care
-- responsible innovation / responsible AI
-- digital inclusion / digital divide
-- social justice / design justice
-- practice theory / everyday life theory
-- human-centred AI / HCI theory
-- environmental gerontology / ageing-in-place
-- transition design / futures studies
-
-Assessment:
-
-- Main theory keywords:
-- Best theoretical bridge to Vivi's direction:
-- Theoretical mismatch or risk:
-
----
-
-## 6. Methodological Orientation
-
-Assess whether they use or value:
-
-- ethnography
-- design ethnography
-- interviews
-- fieldwork / participant observation
-- co-design workshops
-- participatory design
-- participatory action research
-- design anthropology
-- service design tools
-- stakeholder mapping / ecosystem mapping
-- living labs
-- user studies
-- HCI evaluation
-- in-the-wild studies
-- prototyping / situated prototyping
-- scenario-based design
-- speculative / future-oriented methods
-- qualitative research
-- mixed methods
-- policy / organisational case studies
-
-Assessment:
-
-- Main methods:
-- Method fit with Vivi:
-- Method weakness or training gap:
-
----
-
-## 7. Current Projects / PhD Clues
-
-Record ongoing projects, funded programmes, current doctoral students, open calls, and institutional PhD logic.
-
-| Project / Clue | Evidence URL | Relevance to Vivi |
-|---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-Questions to answer:
-
-- Is the supervisor currently active in funded projects?
-- Are there current PhD students or completed doctoral supervision records?
-- Is the institution vacancy-based, open-call-based, or scholarship-based?
-- Is a direct supervisor email useful, or should Vivi wait for a vacancy?
-
----
-
-## 8. Fit with Vivi's Research Direction
-
-Evaluate fit with:
-
-- ageing / older adults
-- intergenerational community
-- community wellbeing
-- digital community services
-- digital inclusion
-- AI / responsible technology
-- welfare technology
-- health / care services
-- participatory design / co-design
-- design anthropology
-- service design
-- HCI / interaction design
-- inclusive design / accessibility
-- smart product / smart service design
-
-Detailed assessment:
-
-### Strong Fit
-
-- 
-
-### Medium Fit
-
-- 
-
-### Weak or Unclear Fit
-
-- 
-
----
-
-## 9. Natural Connection with Vivi's Background
-
-Explain how Vivi's background can connect naturally:
-
-- Industrial Design lecturer
-- design psychology teaching
-- ergonomics / human factors teaching
-- smart product design and interdisciplinary course reform
-- community-oriented design projects
-- participatory/service design interest
-- ageing and intergenerational community direction
-- responsible AI / inclusive digital service interest
-
-Avoid forcing the fit. If the supervisor is strong theoretically but weak in ageing, say so directly.
-
----
-
-## 10. Suggested Direction for This Supervisor
-
-Write 1–3 tailored PhD direction options.
-
-### Direction A: Most aligned with supervisor's current projects
-
-- Title:
-- One-sentence framing:
-
-### Direction B: Best bridge between Vivi and supervisor
-
-- Title:
-- One-sentence framing:
-
-### Direction C: Higher-risk but distinctive angle
-
-- Title:
-- One-sentence framing:
-
----
-
-## 11. Best Email Angle
-
-Should the email be based mainly on Vivi's direction or the supervisor's current project?
-
-- Recommended ratio:
-  - 70% supervisor's current project / 30% Vivi's direction
-  - 60% supervisor's current project / 40% Vivi's background
-  - 50% Vivi's direction / 50% supervisor's agenda
-  - 70% Vivi's direction / 30% supervisor's project
-
-Email angle:
-
-- Opening identity:
-- Project/publication to mention:
-- Keywords to use:
-- Keywords to avoid:
-- Ask type:
-  - upcoming PhD vacancy
-  - project-funded PhD opportunity
-  - fit for open call
-  - possible co-supervision
-  - advice on who in the group is most suitable
-
----
-
-## 12. Risks / Weaknesses
-
-- Risk 1:
-- Risk 2:
-- Risk 3:
-
-Common risks:
-
-- supervisor is not in design school;
-- supervisor is not currently active in ageing;
-- supervisor is too technical for Vivi's current profile;
-- supervisor is too social-science-oriented for Vivi's design background;
-- no evidence of PhD supervision;
-- institution is vacancy-based and cold emails have low conversion;
-- email angle may look like mass outreach;
-- intergenerational focus may need to be softened into stakeholder ecology.
-
----
-
-## 13. Fit Score
-
-Use the 1–5 scale for database comparison.
-
-| Score | Meaning |
+| 1. 学校 / University | 当前机构；跨校任职分别说明；明确拟申请的学位授予机构 |
+| 2. 院系/中心 / Department or Centre | 学院、系、研究组/实验室；避免把合作项目当成隶属关系 |
+| 3. 导师姓名 / Name | 官方拼写 |
+| 4. 职位 / Position | 保留官方英文或原文职称；注明 emeritus、visiting、teaching、part-time 等 |
+| 5. 个人主页 URL / Profile URL | 优先现任机构的个人页面；不可省略 |
+| 6. 导师邮箱 / Public email | 仅记录公开且有来源的工作邮箱；不可按姓名猜测 |
+| 7. 核心主题 / Core themes | 3–5个主题 |
+| 8. 理论偏好 / Theory | 明示理论及来源；分析者推断单独标注 |
+| 9. 方法偏好 / Methods | 明示方法及来源；说明与用户现有能力和训练需求的关系 |
+| 10. 当前博士生/项目线索 / PhD and project clues | 项目名、角色、起止时间、状态、学生/指导证据；已结束与当前分开 |
+| 11. 建议方向 / Suggested angle | 可调整的一句话 PhD 切入点，连到具体项目或论文 |
+| 12. 总体匹配度 / Fit 1–5 | 1–5，允许0.5；附简短理由，不表示招生概率 |
+| 13. 优先级 / Priority | A / A- / B+ / B / C；说明先读、先询问、等岗位或仅保留 |
+| 14. 申请轮次/截止日期 / Round and deadline | 招生路径、状态、截止日期及时区、入学日期、资格限制、官方链接；无公告写未确认 |
+
+元数据：国家｜来源（原有/新增）｜核查日期｜证据可信度（高/中/低）｜角色（潜在主导师/联合指导/转介/参考）｜联系状态（未知/未联系/已发/跟进/回复/拒绝）｜待核实项。未获得联系记录时不要默认“未联系”。
+
+## 2. 证据与近期研究
+
+| 证据类型 | 名称与日期 | 本人角色 / 状态 | 支持哪些字段 | 官方链接 |
+|---|---|---|---|---|
+| 当前个人主页 |  |  | 任职、邮箱、研究方向 |  |
+| 项目/学生 |  | 在研 / 已结束 / 状态不明 | 项目、指导经历 |  |
+| 相关论文 |  | 已发表 / 预印本 | 理论、方法、研究场景 |  |
+| 博士岗位/招生说明 |  | 开放 / 已截止 / 预计 / 未确认 | 资格、资助、截止日期 |  |
+
+不能把导师本人的博士论文指导教师当作该导师的学生；不能把项目页面的“Vacancy PhD”占位符当成可申请岗位。链接受限时记录限制并使用其他一手来源交叉核实。
+
+## 3. 匹配分析（按需展开）
+
+- **主题与场景**：ageing、代际关系、community wellbeing、digital services、care、inclusive/responsible technology 哪些是直接证据，哪些需要改写研究方向？
+- **理论桥梁**：例如 design anthropology、participatory design、practice theory、STS、socio-gerontechnology、care ethics、environmental gerontology、social innovation；不要求每位导师都具备。
+- **方法与背景**：ethnography、访谈、co-design、living labs、situated prototyping、HCI evaluation、mixed methods 等如何承接工业设计、设计心理学、人机工程学、智能产品与社区服务教学/实践？
+- **制度与指导**：主导师/联合指导资格、跨学科接收、学位授予单位、资助与语言要求分别判断。
+- **缺口**：例如技术实现、统计、临床知识、当地语言、老年群体实地经验；不要夸大已有能力。
+- **研究方向**：必要时列 A（贴近项目）、B（贴近用户背景）、C（更有探索性）三个选项，各含标题与一句研究问题。
+- **阅读价值**：推荐具体1–3篇作品，说明可用于 proposal、理论框架、方法或邮件的哪一部分。
+
+## 4. 评分与优先级
+
+研究评分与招生状态分开。下列为定性比较锚点，不是统计模型。
+
+| 分数 | 含义 |
 |---|---|
-| 5.0 | Excellent fit. Directly aligned with ageing/community/digital/design methods and worth tailored outreach. |
-| 4.5 | Very strong fit. Minor mismatch but still priority candidate. |
-| 4.0 | Strong secondary fit. Worth contacting if project/vacancy exists. |
-| 3.5 | Partial fit. Useful as co-supervisor, theory source, or later-round option. |
-| 3.0 | Weak-to-medium fit. Keep in longlist only. |
-| <3.0 | Deprioritise unless a specific vacancy appears. |
+| 5 | 主题、方法、场景与设计背景均有直接而强的联系 |
+| 4.5 | 多维高度相关，但需要一个明确的方向调整 |
+| 4 | 较强匹配，有一个明显缺口 |
+| 3.5 | 部分匹配，更适合联合指导或第二轮 |
+| 3 | 有相邻研究价值，进入长名单而非首批联系 |
+| 2 | 关联有限；仅具体项目或合作线索值得保留 |
+| 1 | 基本不匹配 |
 
-Score:
+A：首批定制阅读/联系；A-：很强，但岗位、角色或资格需核实；B+：第二批或联合指导；B：有具体角度再联系；C：参考/转介或当前不行动。评分高但资格不符，必须降低行动优先级。另写至少一句评分理由。
 
-Reason:
+## 5. 联系与申请行动（不自动发送）
 
-Priority:
+- 首次联系只引用1–2项相关研究，明确自己的可贡献能力与开放的研究问题。
+- 岗位制机构可询问 upcoming funded PhD positions、项目契合或共同指导；已公开岗位按公告正式申请，勿等待回信而错过截止。
+- 同院系不自动等于同组；核查同组/共同项目后，选择一个首要联系人，其他人作为备选或联合指导。不同项目可分别联系，但避免同日发送内容相同的信。
+- 邮件准备：自我定位、引用项目/论文、自然桥梁、具体询问；不宣称“完美匹配”。
+- 按公告准备 CV、研究兴趣摘要/提案、写作样本、成绩单、学位、英语/当地语言证明和推荐材料。
+- 下一步填写：读论文 / 查资格 / 准备邮件 / 申请岗位 / 等公告 / 转介 / 降级；加建议行动日期。
 
-- A = first-round tailored email / high-value target
-- A- = strong but needs better project/vacancy evidence
-- B+ = useful second-round target or co-supervisor possibility
-- B = longlist; contact only with specific angle
-- C = read only / keep as reference, do not contact now
+## 6. 批量入库表头
 
----
+以下15列为“国家 + 用户14项”，主页网址必须保留。来源、核查日期等元数据可追加在后。
 
-## 14. Application Round / Deadline Notes
+| 国家 | 学校 | 院系/中心 | 导师姓名 | 职位 | 个人主页 URL | 导师邮箱 | 核心主题（3–5） | 理论偏好 | 方法偏好 | 当前博士生/项目线索 | 建议方向 | 总体匹配度（1–5） | 优先级 | 申请轮次/截止日期 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---:|---|---|
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-- Country PhD logic:
-- Institution PhD logic:
-- Current open call / vacancy:
-- Usual cycle:
-- Deadline:
-- Suggested action date:
-- Materials needed:
-  - CV
-  - 1-page research interest summary
-  - tailored email
-  - research proposal
-  - writing sample
-  - transcript / degree documents
-  - English proof
-
----
-
-## 15. Suggested Next Step
-
-Choose one:
-
-- Read 2–3 papers by this supervisor.
-- Prepare tailored email.
-- Prepare 1-page research interest summary.
-- Wait for project-funded PhD vacancy.
-- Ask for advice about possible co-supervision.
-- Keep as secondary option.
-- Deprioritise.
-
-Next step:
-
----
-
-## 16. Short Database Row
-
-Use this compressed row for supervisor_longlist.md.
-
-| Country | University | Department / Centre | Supervisor | Position | Email | Themes | Theory | Methods | Project / PhD Clues | Suggested Direction | Fit | Priority | Deadline / Cycle |
-|---|---|---|---|---|---|---|---|---|---|---|---:|---|---|
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+长名单正文可用每人14项的纵向表提高可读性；字段顺序保持一致。现有区域示例见 [四国长名单](../03_Supervisor_Matching/regional_longlist_sweden_norway_denmark_netherlands.md)。
