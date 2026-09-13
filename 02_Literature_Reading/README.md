@@ -1,6 +1,6 @@
 # 02｜Literature Reading
 
-This folder is the literature-reading engine for the project **PhD Application 2026 – Design, Ageing & Community**.
+This folder is the literature-reading engine for the project **PhD Application 2027 – Design, Ageing & Community**.
 
 Its purpose is not only to summarize papers, but to convert every reading into usable PhD application material: research positioning, proposal arguments, supervisor emails, literature review clusters, theoretical framing, and method choices.
 
